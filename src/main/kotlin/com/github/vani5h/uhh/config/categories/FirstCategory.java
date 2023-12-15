@@ -1,4 +1,4 @@
-package com.example.config.categories;
+package com.github.vani5h.uhh.config.categories;
 
 import com.google.gson.annotations.Expose;
 import io.github.moulberry.moulconfig.annotations.ConfigEditorBoolean;
